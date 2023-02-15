@@ -1,9 +1,9 @@
-/* body {
+body {
   margin: 0;
   padding: 0;
   display: flex;
   box-sizing: border-box;
-} */
+}
 
 .flexbox-container {
   display: flex;
@@ -28,6 +28,7 @@ img {
   height: 300px;
   width: 300px;
   border-radius: 7px;
+  background: #fff;
 }
 #explain {
   padding: 1rem;
